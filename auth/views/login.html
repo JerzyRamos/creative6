@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    
+<head>
+    <title>User Login and Sessions</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+</head>
+        
+<body>  
+    <div class="form-container">
+        <h1 class="form-header">LOGIN</h1>
+        <form method="POST" action="/login">
+            <input type="text" id="username" name="username" placeholder="Username"><br>
+            <input type="password" id="password" name="password" placeholder="Password"><br>
+            <input type="submit" id="login" value="Login">
+        </form>
+        <div style="display:inline;color:#BFBFBF">Not registered? </div>
+        <a id="signUpLink" href="/signup">Create an account</a><br><br>
+    </div>
+    <div id="msg">
+    <span id="loginMsg">
+    <%= msg %>
+    </span>
+    </div>
+</body>
+        
+</html>

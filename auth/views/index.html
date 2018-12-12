@@ -1,0 +1,36 @@
+<!doctype html>
+<html ng-app="myApp">
+
+<head>
+    <title>User Login and Sessions</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+</head>
+
+<body>
+    <div >
+        
+        
+    </div>
+    
+    <div class="form-container" ng-controller="myController">
+        <h1 id="welcomeText">Welcome. You are Logged In as
+            <%= username %>
+        </h1>
+        <a id="logoutLink" href="/logout"><button id="link">Logout</button></a>
+        <a id="editLink" href="/user"><button id="link">Add to-do items</button></a>
+
+    </div>
+    <hr>
+    <span id="indexMsg">
+        <%= msg %>
+    </span>
+    <hr>
+    <span id="colorText">
+    To-do List: <br><br>
+        <%= color %>
+      </span>
+    <script src="http://code.angularjs.org/1.2.9/angular.min.js"></script>
+    <script src="/javascripts/my_app.js"></script>
+</body>
+
+</html>

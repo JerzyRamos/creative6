@@ -1,0 +1,516 @@
+nohup: ignoring input
+before / Route
+Connected
+(node:25433) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+/login Route
+[0mGET /login [32m200 [0m11.365 ms - 824[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.263 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.684 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.373 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m3.447 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.574 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.185 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.440 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.570 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.258 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.183 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.086 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m2.389 ms - 199[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.062 ms - 908[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.359 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.468 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.580 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.333 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.986 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.170 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m3.330 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.971 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.925 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.415 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.236 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.966 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.360 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.409 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m4.898 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.236 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.959 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.641 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m3.450 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m1.099 ms - 810[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.758 ms - 1944[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m1.043 ms - 228620[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m0.557 ms - 230356[0m
+/login Route
+[0mGET /login [36m304 [0m1.185 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.949 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m7.982 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m13.776 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m0.932 ms - 824[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.140 ms - 1944[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m1.239 ms - 230356[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m1.987 ms - 228620[0m
+[0mGET /favicon.ico [33m404 [0m0.985 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m0.761 ms - 810[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.470 ms - 1944[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m0.409 ms - 228620[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m0.458 ms - 230356[0m
+/login Route
+[0mGET /login [36m304 [0m0.978 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.928 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.362 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.238 ms - -[0m
+[0mGET http://5.188.210.12/echo.php [33m404 [0m1.401 ms - 199[0m
+/login Route
+[0mGET /login [32m200 [0m1.150 ms - 810[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.458 ms - 1944[0m
+[0mGET /favicon.ico [33m404 [0m0.828 ms - 199[0m
+/login Route
+[0mGET /login [36m304 [0m1.545 ms - -[0m
+/login Route
+[0mGET /login [32m200 [0m0.739 ms - 810[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m0.898 ms - 228620[0m
+/login Route
+[0mGET /login [32m200 [0m0.686 ms - 810[0m
+/login Route
+[0mGET /login [32m200 [0m1.306 ms - 810[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m0.863 ms - 230356[0m
+/login Route
+[0mGET /login [32m200 [0m1.108 ms - 810[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.746 ms - 1944[0m
+/login Route
+[0mGET /login [32m200 [0m4.068 ms - 810[0m
+/login Route
+[0mGET /login [32m200 [0m0.947 ms - 824[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.440 ms - 1944[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m0.465 ms - 228620[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m0.452 ms - 230356[0m
+[0mGET /favicon.ico [33m404 [0m0.676 ms - 199[0m
+login
+{ _id: 5c0a3eb315ba373cd723f50a,
+  username: '',
+  hashed_password: '47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=',
+  email: '',
+  __v: 0 }
+[0mPOST /login [36m302 [0m39.659 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T11:07:16.842Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0a3eb315ba373cd723f50a',
+  username: '',
+  msg: 'Authenticated as ' }
+/ Route if user
+[0mGET / [32m200 [0m3.140 ms - 828[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.985 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.904 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.877 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.834 ms - -[0m
+[0mGET /user/profile [32m200 [0m3.994 ms - 132[0m
+/user Route
+[0mGET /user [32m200 [0m1.139 ms - 1227[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.995 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.805 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.424 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m10.648 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.539 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T11:07:28.884Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c0a3eb315ba373cd723f50a',
+  username: '',
+  msg: 'Authenticated as ' }
+/ Route if user
+[0mGET / [36m304 [0m1.900 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.639 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.768 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m4.071 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m4.711 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.823 ms - -[0m
+/logout Route
+[0mGET /logout [36m302 [0m1.484 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.687 ms - 810[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.371 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.653 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.642 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.261 ms - 894[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.961 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.935 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.919 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.221 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.857 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.917 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.872 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.693 ms - 199[0m
+/login Route
+[0mGET /login [36m304 [0m0.667 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.922 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.353 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.952 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.750 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.930 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.893 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.911 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.632 ms - 199[0m
+/login Route
+[0mGET /login [36m304 [0m3.132 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.094 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.927 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.892 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.674 ms - 199[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T11:51:56.585Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true } }
+/ Route else user
+[0mGET / [36m302 [0m3.945 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.672 ms - 824[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.888 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.308 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.892 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.740 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.942 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.019 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m3.257 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-10T11:52:06.598Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Access denied!' }
+/ Route else user
+[0mGET / [36m302 [0m0.673 ms - 56[0m
+/login Route
+[0mGET /login [36m304 [0m1.734 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.449 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m4.193 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m12.269 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m1.161 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.855 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.267 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.200 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.654 ms - 199[0m
+/login Route
+[0mGET /login [36m304 [0m0.754 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.897 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.871 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.884 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m0.626 ms - 199[0m
+/login Route
+[0mGET /login [36m304 [0m0.726 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.853 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.760 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.860 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m1.518 ms - 908[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.874 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.310 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.889 ms - -[0m
+/login Route
+[0mGET /login [36m304 [0m0.691 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.870 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.418 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.963 ms - -[0m
+[0mPOST /login [36m302 [0m2.355 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m1.318 ms - 825[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.883 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.816 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.021 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.820 ms - 909[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.939 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.549 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.527 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m15.083 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:21:09.078Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as ',
+  user: '5c10547549a2986359159873',
+  username: '' }
+/ Route if user
+[0mGET / [32m200 [0m1.460 ms - 828[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.839 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.805 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m8.968 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m9.577 ms - -[0m
+[0mGET /user/profile [32m200 [0m2.775 ms - 132[0m
+/user Route
+[0mGET /user [36m304 [0m1.795 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.322 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.891 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.448 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.863 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.755 ms - -[0m
+[0mPOST /user/update [36m302 [0m5.235 ms - 54[0m
+/user Route
+[0mGET /user [32m200 [0m0.736 ms - 1223[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.400 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.033 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m8.905 ms - -[0m
+[0mGET /user/profile [32m200 [0m10.477 ms - 147[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.962 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:21:50.794Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'User Updated.',
+  user: '5c10547549a2986359159873',
+  username: '',
+  color: 'blue' }
+/ Route if user
+[0mGET / [32m200 [0m0.957 ms - 828[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.312 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.894 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.947 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.268 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.858 ms - -[0m
+/user Route
+[0mGET /user [36m304 [0m0.726 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.416 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.087 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.929 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.339 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.931 ms - -[0m
+[0mPOST /user/update [36m302 [0m6.031 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m2.607 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.187 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.695 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.770 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.429 ms - -[0m
+[0mGET /user/profile [32m200 [0m2.491 ms - 165[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:22:24.956Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'User Updated.',
+  user: '5c10547549a2986359159873',
+  username: '',
+  color: 'blue' }
+/ Route if user
+[0mGET / [36m304 [0m1.537 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.119 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m3.004 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.635 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.705 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.248 ms - -[0m
+/user Route
+[0mGET /user [36m304 [0m1.873 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.663 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.777 ms - -[0m
+[0mGET /user/profile [36m304 [0m3.028 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m12.342 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.244 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:25:37.522Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c10547549a2986359159873',
+  username: '',
+  msg: 'Authenticated as ',
+  color: 'blue' }
+/ Route if user
+[0mGET / [32m200 [0m1.361 ms - 832[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.925 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.915 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.142 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.733 ms - -[0m
+[0mGET /user/profile [36m304 [0m1.504 ms - -[0m
+/logout Route
+[0mGET /logout [36m302 [0m1.236 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.950 ms - 810[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.928 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.820 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.809 ms - -[0m
+[0mPOST /login [36m302 [0m2.114 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.962 ms - 825[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.903 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m5.329 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m3.365 ms - -[0m
+[0mPOST /login [36m302 [0m1.775 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.748 ms - 825[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.931 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.557 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.996 ms - -[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:28:20.416Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Access denied!' }
+/ Route else user
+[0mGET / [36m302 [0m1.018 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.728 ms - 824[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.884 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.090 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.973 ms - -[0m
+[0mPOST /login [36m302 [0m1.743 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.711 ms - 825[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.874 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m2.075 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m2.745 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.879 ms - 909[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.901 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.300 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.872 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m3.785 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:28:35.146Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as ',
+  user: '5c10563349a2986359159874',
+  username: '' }
+/ Route if user
+[0mGET / [32m200 [0m0.982 ms - 828[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.954 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.753 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.300 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.918 ms - -[0m
+[0mGET /user/profile [32m200 [0m1.797 ms - 132[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T10:34:47.605Z,
+     originalMaxAge: 2627999999,
+     httpOnly: true },
+  user: '5c1057954ad0720eb6a34f7f',
+  username: '',
+  msg: 'User Updated.' }
+/ Route if user
+[0mGET / [32m200 [0m1.023 ms - 824[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.997 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.904 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m0.894 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m0.827 ms - -[0m
+[0mGET /user/profile [32m200 [0m1.464 ms - 132[0m
+/user Route
+[0mGET /user [36m304 [0m0.731 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.906 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.708 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.308 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.934 ms - -[0m
+[0mGET /user/profile [36m304 [0m2.318 ms - -[0m
+[0mPOST /user/update [36m302 [0m4.715 ms - 54[0m
+/user Route
+[0mGET /user [36m304 [0m0.758 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.937 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.742 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [36m304 [0m1.255 ms - -[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [36m304 [0m1.830 ms - -[0m
+[0mGET /user/profile [32m200 [0m1.836 ms - 144[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T11:01:47.386Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  msg: 'Authenticated as us',
+  user: '5c105df201ba2c12e2b77fce',
+  username: 'us' }
+/ Route if user
+[0mGET / [32m200 [0m0.973 ms - 832[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.760 ms - 1944[0m
+[0mGET /javascripts/my_app.js [32m200 [0m1.079 ms - 400[0m
+[0mGET /user/profile [32m200 [0m2.063 ms - 155[0m
+[0mGET /stylesheets/fonts/Montserrat-Regular.otf [32m200 [0m0.505 ms - 228620[0m
+[0mGET /stylesheets/fonts/Montserrat-Medium.otf [32m200 [0m0.460 ms - 230356[0m
+[0mGET /favicon.ico [33m404 [0m1.082 ms - 199[0m
+/logout Route
+[0mGET /logout [36m302 [0m1.006 ms - 56[0m
+/login Route
+[0mGET /login [32m200 [0m0.695 ms - 810[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.862 ms - -[0m
+/signup Route
+[0mGET /signup [32m200 [0m0.932 ms - 894[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.097 ms - -[0m
+Begin exports.signup
+after new user exports.signup
+after hashing user exports.signup
+after email user exports.signup
+In exports.signup
+null
+[0mPOST /signup [36m302 [0m4.312 ms - 46[0m
+/ Route
+Session {
+  cookie: 
+   { path: '/',
+     _expires: 2019-01-11T11:02:02.550Z,
+     originalMaxAge: 2628000000,
+     httpOnly: true },
+  user: '5c105e0a49a2986359159875',
+  username: 'aaaa',
+  msg: 'Authenticated as aaaa' }
+/ Route if user
+[0mGET / [32m200 [0m1.134 ms - 836[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.531 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m0.727 ms - -[0m
+[0mGET /user/profile [32m200 [0m1.851 ms - 149[0m
